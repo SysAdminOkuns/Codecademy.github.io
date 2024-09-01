@@ -1,0 +1,60 @@
+html,
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+    margin: 0 auto;
+}
+
+body {
+    padding: 10px;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    color: khaki;
+    display: block;
+    text-align: center;
+}
+
+#brush {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+
+}
+
+.price {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+
+}
+
+#frame {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;  
+}
+
+#paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
